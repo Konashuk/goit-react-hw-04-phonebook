@@ -1,5 +1,5 @@
 import { GlobalStyle } from 'globasStyle';
-import Phonebooks from './phonebooks';
+import { Phonebooks } from './phonebooks';
 
 export const App = () => {
   return (
